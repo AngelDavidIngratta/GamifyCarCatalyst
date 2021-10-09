@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GamifyCarCatalyst</string>
+    <string name="lat">Latitude:</string>
+    <string name="initialDoubleValue">0.00</string>
+    <string name="lon">Longitude:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="sensor">Sensor:</string>
+    <string name="cell_tower_wifi">Cell Tower + Wifi</string>
+    <string name="updates">Updates:</string>
+    <string name="off">Off</string>
+    <string name="gps_savepower">SavePower/GPS</string>
+    <string name="address">Address:</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="Sw_GPS_Checked_Text">Using GPS Sensors</string>
+    <string name="Sw_GPS_Unchecked_Text">Using Towers + WIFI</string>
+    <string name="TrackingDisabled">Location is not being tracked</string>
+    <string name="TrakingEnabled">Location is being tracked</string>
+    <string name="FeatureUnavailableBecauseNoPermissionGranted">This app requires permission to be granted in order to work properly</string>
+    <string name="PermissionAlreadyGranted">Permission already granted</string>
+    <string name="NotAvailable">Not Available</string>
+</resources>
